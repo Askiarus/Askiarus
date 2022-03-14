@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Askiarus
+Hello, friend!
 
-<!---
-Askiarus/Askiarus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Askiarus and I am very happy to see you here!
